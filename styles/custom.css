@@ -1,0 +1,22 @@
+.icon {
+  display: inline-block;
+  margin-bottom: 0;
+  font-size: 17px;
+  color: #fff !important;
+}
+
+.btn-punch.btn-md {
+  padding: 15px 50px;
+  font-size: 12px;
+}
+
+.btn-punch.btn-white.hover-colors {
+  background-color: #FF4081;
+  color: #FFF;
+}
+
+.btn-punch.btn-white {
+  border-color: #FF4081;
+  color: #FFF;
+  background-color: rgba(0, 0, 0, 0);
+}
